@@ -6,9 +6,10 @@ I wrote it for educational purposes. It can operate in four modes:
 * If first argument is "-ne" then lines of each file are numbered
 
 So there are usage examples:
-"""
+
+```
   ./cat
   ./cat file1 file2 ... filen
   ./cat -n file1 file2 ... filen
   ./cat -ne file1 file2 ... filen
-"""
+```
